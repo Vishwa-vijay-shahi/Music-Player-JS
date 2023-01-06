@@ -1,5 +1,5 @@
-const key = "MWM2NzFiYjktNWI2YS00MGU2LWJlN2YtYWM2NjExZTJiNmI3"
-let api = `https://api.napster.com/v2.1/tracks/top?apikey=${key}`
+
+let api = `https://api.napster.com/v2.1/tracks/top?apikey=ZTk2YjY4MjMtMDAzYy00MTg4LWE2MjYtZDIzNjJmMmM0YTdm`
 
 fetchTopTracks()
 
